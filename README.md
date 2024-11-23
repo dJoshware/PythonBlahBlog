@@ -6,7 +6,7 @@ A simple blog app built with Python and Flask.
 ---
 
 ## Usage
-1. 
+1. Create an account to leave comments on posts
 
 ---
 
