@@ -1,10 +1,88 @@
+# PYTHON DEPENDENCIES
+
+# AWS
+aws-cli>=2.19.0
+awsebcli>=3.21.0
+aws-sam-cli>=1.129.0
+aws-shell>=0.2.1
+boto3>=1.28.0
+
+# Web Development
 Bootstrap_Flask>=2.4.1
+Flask>=2.3.2
+Flask-Caching>=2.3.0
 Flask_CKEditor>=1.0.0
-Flask-Login>=0.6.3
-Flask-Gravatar>=0.5.0
-Flask-WTF>=1.2.2
-WTForms>=3.0.1
-Werkzeug>=3.1.0
-Flask==2.2.5
+Flask-Session>=0.8.0
 Flask-SQLAlchemy>=3.1.1
+Flask-WTF>=1.2.2
+Django>=4.2
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+gunicorn>=20.1.0
+Jinja2>=3.1.2
+Werkzeug>=3.1.0
+WTForms>=3.0.1
+
+# Database Interaction
 SQLAlchemy>=2.0
+psycopg2-binary>=2.9.8 # For PostgreSQL
+PyMySQL>=1.1.0  # For MySQL
+
+# API Interaction
+requests>=2.31.0
+httpx>=0.24.1
+
+# Asynchronous Programming
+asyncio  # Built into Python 3.11+
+aiohttp>=3.8.5
+
+# Data Analysis and Visualization
+numpy>=1.26.0
+pandas>=2.1.1
+matplotlib>=3.8.0
+seaborn>=0.12.3
+
+# Machine Learning and AI
+scikit-learn>=1.3.0
+# tensorflow>=2.14.0
+# torch>=2.1.0
+transformers>=4.34.0
+
+# File Handling and Parsing
+PyYAML>=6.0
+lxml>=4.9.3
+openpyxl>=3.1.5
+
+# Security and Authentication
+bcrypt>=4.0.1
+Flask-Bcrypt>=1.0.1
+Flask-Login>=0.6.2
+
+# Development Tools
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.1.0
+isort>=5.12.0
+bleach>=6.2.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Email and Notifications
+email-validator>=2.0.1
+
+# General Utilities
+pytz>=2023.3
+python-dateutil>=2.8.2
+six>=1.16.0
+
+# Logging
+loguru>=0.7.1
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0.76
+
+# Others
+rich>=13.5.2
+tqdm>=4.65.0
