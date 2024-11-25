@@ -16,4 +16,4 @@ A simple blog app built with Python and Flask.
 ---
 
 ## License
-📝 [MIT License](https://github.com/juicername6424/PythonBlahBlog/blob/main/LICENSE)
+📝 [MIT License](https://github.com/djoshware/PythonBlahBlog/blob/main/LICENSE)
